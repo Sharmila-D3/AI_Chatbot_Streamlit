@@ -1,6 +1,6 @@
 # AI CHatbot
 
-[![Streamlit App]](https://aichatbotapp-e4tug2f7iljjb99jxwxdec.streamlit.app/)
+[![Streamlit App]](https://github.com/Sharmila-D3/AI_Chatbot_Streamlit)
 
 ![Demo App Screenshot](images/Chatbot.png)
 
