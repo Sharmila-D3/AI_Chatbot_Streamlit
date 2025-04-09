@@ -2,7 +2,7 @@
 
 [![Streamlit App]](https://github.com/Sharmila-D3/AI_Chatbot_Streamlit)
 
-![Demo App Screenshot](images/Chatbot.png)
+![Demo App Screenshot](Chatbot.png)
 
 This [Streamlit](https://streamlit.io/) app integrates with the [Groq API](https://groq.com/) to provide a chat interface where users can interact with advanced language models. It allows users to choose between two models for generating responses, enhancing the flexibility and user experience of the chat application.
 
